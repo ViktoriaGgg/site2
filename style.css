@@ -1,0 +1,38 @@
+.fon{
+	height: 80vh;
+	background: url('img/fon.jpg');
+	background-size: cover; important!
+}
+img{
+	width: 200px;  
+	height: 200px;
+	border: 1px solid grey;
+	box-shadow: 1px 1px 2px 2px;
+}
+
+.img{
+	margin: 50px;
+	vertical-align: middle;
+	text-align: center;
+	box-shadow: 1px 1px 2px 2px;
+}
+.inf{
+	margin: 100px;
+    text-align: center;
+    color: white;
+    position: absolute;
+}
+.tel{
+	color: red;
+	text-align: center;
+	padding-left: 50px;
+}
+.nav-item{
+	font-size: 25px;
+}
+h3{
+	font-size: 30px;
+}
+h1{
+	font-size: 50px;
+}
